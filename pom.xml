@@ -19,6 +19,7 @@
     <module>singleton</module>
     <module>object-pool</module>
     <module>factory</module>
+    <module>strategy</module>
   </modules>
   <build>
     <plugins>
