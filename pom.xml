@@ -20,6 +20,7 @@
     <module>object-pool</module>
     <module>factory</module>
     <module>strategy</module>
+    <module>prototype</module>
   </modules>
   <build>
     <plugins>
